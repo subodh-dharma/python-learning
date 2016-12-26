@@ -7,3 +7,4 @@ Learning Python from Beginner to Professional exercises
 | 2 | date-sequence.py | Indexing operations on sequence |
 | 3 | slicing.py | Slicing operations in sequence and their types |
 | 4 | sequence-operations.py | Operations of Add, Multiply, Length, Max n Min on sequence |
+| 5 | list-operation.py | Basic operations of `list` in python |
