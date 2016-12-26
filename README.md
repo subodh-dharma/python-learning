@@ -9,3 +9,4 @@ Learning Python from Beginner to Professional exercises
 | 4 | [sequence-operations.py](sequence-operations.py) | Operations of Add, Multiply, Length, Max n Min on sequence |
 | 5 | [list-operation.py](./list-operation.py) | Basic operations of `list` in python |
 | 6 | [list-datastructure.py](./list-datastructure.py) | Stack and Queue implementation using `list` operations |
+| 7 | [sorting.py](./sorting.py) | Sorting of list - variations |
